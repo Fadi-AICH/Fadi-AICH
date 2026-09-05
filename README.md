@@ -1,21 +1,67 @@
-# 💫 About Me:
-🌍 I'm a cybersecurity engineering student passionate about ethical hacking, AI, and automation.<br>💡 I'm currently working on a smart assistant project that merges browser control with AI intelligence.<br>🤝 I’m looking to collaborate on open-source tools that empower developers and researchers, and on anything involving Kali Linux, CTFs, or building tools that make hackers sweat (the bad ones, obviously).<br>🧠 I’m currently learning advanced Python, Linux kernel internals, and RF signal analysis for drone defense systems.<br>🙋‍♂️ Ask me about Obsidian vault automation, OSINT, or creating secure digital workflows.<br>🧩 Ask me about network sniffing, writing clean exploits, or how I accidentally DDoS'd my own router (for science).<br>⚡ Fun fact: I can lose track of time solving LeetCode problems or optimizing MATLAB simulations for anti-jamming detection!
+# Fadi AICH
 
+Final-year **Cybersecurity & Cloud Computing engineering student** focused on **SOC / Detection Engineering, AI for Cybersecurity, Cloud Security and DevSecOps**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Fadi-AICH&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Fadi-AICH&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadi-AICH&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I build hands-on security projects around SIEM, attack simulation, automation, machine learning, network monitoring and secure infrastructure. I am currently seeking a **6-month final-year / PFE internship in Europe starting Jan/Feb 2027**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Fadi-AICH&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Featured cybersecurity work
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### SOC Graph AI — Detection, Correlation & Automated Response
+Built and validated a controlled SOC lab combining **Wazuh, Python enrichment, MITRE ATT&CK, Neo4j/Graph AI, UEBA/ML, Atomic Red Team, Caldera, Streamlit and SOAR automation with n8n/Shuffle**.
+
+- 12 controlled attack scenarios
+- 1,400+ normalized and enriched alerts
+- Graph-based investigation and analyst prioritization
+- Automated triage and notification workflows
+
+[Read the sanitized case study](projects/soc-graph-ai.md)
+
+### Network Security Monitoring — SELKS / Suricata / Cisco
+Designed and deployed an open-source NSM lab with **SELKS, Suricata, Zeek, Elastic/Kibana, Scirius, Docker and Cisco SPAN**, then validated it with controlled attack simulations and custom investigation dashboards.
+
+[Read the sanitized case study](projects/network-security-monitoring.md)
+
+### CyberGuard MLOps
+End-to-end **AI + Cybersecurity MLOps** project for IoT intrusion detection using CICIoT2023, DVC, MLflow, FastAPI, Prometheus, Grafana, Airflow, Streamlit and GitHub Actions.
+
+[Open repository](https://github.com/Fadi-AICH/cyberguard-mlops)
+
+### Secure Transmission Protocol Simulator
+Python/PySide6 simulator combining **AES-CBC, Hamming(7,4), CRC, noisy-channel injection, ACK/NACK retransmission and automated tests**.
+
+[Open repository](https://github.com/Fadi-AICH/Secure-Transmission-Protocol-Simulator)
+
+## Core technical areas
+
+**Security Operations & Detection**  
+SIEM · incident detection & investigation · threat hunting · MITRE ATT&CK · SOAR · IDS/IPS · Wazuh · Suricata
+
+**AI for Cybersecurity**  
+Python · ML/UEBA · graph-based investigation · MLflow · model monitoring · security analytics
+
+**Cloud & DevSecOps**  
+Azure · AWS fundamentals · IAM/RBAC · Docker · CI/CD · GitHub Actions · secrets management
+
+**Offensive & Systems Security**  
+Web/network pentesting · OWASP Top 10 · Active Directory · reverse engineering · Ghidra · IDA Free · x64dbg
+
+**Programming**  
+Python · Java · C/C++ · Bash · PowerShell · SQL
+
+## Current interests
+
+- AI-assisted detection and investigation
+- Security of AI systems and AI agents
+- Detection engineering and SOC automation
+- Cloud security and DevSecOps
+- Threat hunting and adversary emulation
+- Reverse engineering
+
+## Links
+
+- GitHub: https://github.com/Fadi-AICH
+- TryHackMe: https://tryhackme.com/p/FadiX
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Fadi-AICH&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> Public project material is sanitized. Employer-sensitive infrastructure details, credentials and proprietary information are intentionally excluded.
