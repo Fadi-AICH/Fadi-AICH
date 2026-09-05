@@ -69,15 +69,15 @@ Desktop security engineering project combining **AES-CBC, Hamming(7,4), CRC, noi
 
 ## 🧪 Security Labs
 
-### Detection Engineering Lab
-A growing defensive-security lab for **Sigma, Wazuh and Suricata detections mapped to MITRE ATT&CK**.
+### 🛰️ Detection Engineering Lab
+Defensive-security lab for **Sigma, Wazuh and Suricata detections mapped to MITRE ATT&CK**, with portable rules and a lightweight validation utility.
 
-➡️ [Open lab](labs/detection-engineering-lab/README.md)
+➡️ [Open repository](https://github.com/Fadi-AICH/detection-engineering-lab)
 
-### AI Security Lab
-A compact lab focused on **LLM / coding-agent security**, prompt-injection evaluation and basic static analysis of AI-generated code.
+### 🤖 AI Security Lab
+Applied lab for **LLM / coding-agent security**, prompt-injection evaluation, secure code-agent review and static checks for risky AI-generated Python patterns.
 
-➡️ [Open lab](labs/ai-security-lab/README.md)
+➡️ [Open repository](https://github.com/Fadi-AICH/ai-security-lab)
 
 ---
 
