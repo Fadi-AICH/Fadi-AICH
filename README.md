@@ -1,67 +1,73 @@
 # Fadi AICH
 
-Final-year **Cybersecurity & Cloud Computing engineering student** focused on **SOC / Detection Engineering, AI for Cybersecurity, Cloud Security and DevSecOps**.
+Final-year **Cybersecurity & Cloud Engineering** student focused on **SOC / Detection Engineering, AI for Cybersecurity, Cloud Security and DevSecOps**.
 
-I build hands-on security projects around SIEM, attack simulation, automation, machine learning, network monitoring and secure infrastructure. I am currently seeking a **6-month final-year / PFE internship in Europe starting Jan/Feb 2027**.
+I enjoy building security systems that turn raw telemetry into useful analyst decisions: detection, enrichment, correlation, scoring, investigation and response automation.
+
+**PFE / Final-Year Internship:** 6 months · **Jan/Feb 2027** · open to opportunities across Europe and internationally.
+
+## What I work on
+
+- **SOC & Detection Engineering:** SIEM, incident detection/investigation, threat hunting, MITRE ATT&CK, SOAR, UEBA
+- **AI for Cybersecurity:** ML-assisted alert prioritization, graph-based investigation, security analytics
+- **Cloud & DevSecOps:** Azure, IAM/RBAC, Docker, CI/CD, secrets management, vulnerability automation
+- **Offensive Security:** web/network pentesting, OWASP Top 10, controlled attack simulation
+- **Reverse Engineering:** x86/x64, PE/ELF, Ghidra, IDA Free, x64dbg
+- **Programming:** Python, C/C++, Java, Bash, PowerShell, SQL
 
 ## Featured cybersecurity work
 
 ### SOC Graph AI — Detection, Correlation & Automated Response
-Built and validated a controlled SOC lab combining **Wazuh, Python enrichment, MITRE ATT&CK, Neo4j/Graph AI, UEBA/ML, Atomic Red Team, Caldera, Streamlit and SOAR automation with n8n/Shuffle**.
+A controlled SOC laboratory that connects **Wazuh → Python enrichment → MITRE ATT&CK mapping → UEBA/ML scoring → Neo4j graph investigation → Streamlit analyst views → n8n/Shuffle SOAR**.
 
-- 12 controlled attack scenarios
-- 1,400+ normalized and enriched alerts
-- Graph-based investigation and analyst prioritization
-- Automated triage and notification workflows
+Highlights:
+- validated with **12 controlled attack scenarios**
+- adversary emulation with **Atomic Red Team** and **MITRE Caldera**
+- more than **1,400 alerts** normalized/enriched during validation
+- graph-based investigation and risk prioritization
+- firewall telemetry from **pfSense**
+- automated triage and notification workflows
 
-[Read the sanitized case study](projects/soc-graph-ai.md)
+[Read the sanitized project case study](projects/soc-graph-ai/README.md)
 
 ### Network Security Monitoring — SELKS / Suricata / Cisco
-Designed and deployed an open-source NSM lab with **SELKS, Suricata, Zeek, Elastic/Kibana, Scirius, Docker and Cisco SPAN**, then validated it with controlled attack simulations and custom investigation dashboards.
+A network-security monitoring project built around **SELKS, Suricata, Elastic/Kibana, Scirius, Docker and Cisco traffic mirroring**.
 
-[Read the sanitized case study](projects/network-security-monitoring.md)
+Highlights:
+- IDS/IPS deployment and network visibility through SPAN
+- controlled scan, brute-force and DoS simulations
+- custom Kibana investigation dashboard
+- rule/log analysis and event correlation
+- honeypot extension for additional malicious-behavior telemetry
 
-### CyberGuard MLOps
-End-to-end **AI + Cybersecurity MLOps** project for IoT intrusion detection using CICIoT2023, DVC, MLflow, FastAPI, Prometheus, Grafana, Airflow, Streamlit and GitHub Actions.
+[Read the sanitized project case study](projects/network-security-monitoring/README.md)
 
-[Open repository](https://github.com/Fadi-AICH/cyberguard-mlops)
+### CyberGuard MLOps — AI for Intrusion Detection
+End-to-end MLOps project for IoT intrusion detection using **CICIoT2023, DVC, MLflow, FastAPI, Prometheus, Grafana, Airflow and Streamlit**.
+
+Highlights:
+- reproducible data/model pipeline
+- model comparison and experiment tracking
+- production-style inference and monitoring
+- SOC analyst dashboard/workbench
+- GitHub Actions CI/CD
+
+[Open CyberGuard MLOps](https://github.com/Fadi-AICH/cyberguard-mlops)
 
 ### Secure Transmission Protocol Simulator
-Python/PySide6 simulator combining **AES-CBC, Hamming(7,4), CRC, noisy-channel injection, ACK/NACK retransmission and automated tests**.
+Python/PySide6 desktop simulator combining **AES-CBC, Hamming(7,4), CRC, noisy-channel models, ACK/NACK retransmission and pytest**.
 
-[Open repository](https://github.com/Fadi-AICH/Secure-Transmission-Protocol-Simulator)
+[Open the repository](https://github.com/Fadi-AICH/Secure-Transmission-Protocol-Simulator)
 
-## Core technical areas
+## Current direction
 
-**Security Operations & Detection**  
-SIEM · incident detection & investigation · threat hunting · MITRE ATT&CK · SOAR · IDS/IPS · Wazuh · Suricata
+I am particularly interested in internships and research topics involving:
 
-**AI for Cybersecurity**  
-Python · ML/UEBA · graph-based investigation · MLflow · model monitoring · security analytics
-
-**Cloud & DevSecOps**  
-Azure · AWS fundamentals · IAM/RBAC · Docker · CI/CD · GitHub Actions · secrets management
-
-**Offensive & Systems Security**  
-Web/network pentesting · OWASP Top 10 · Active Directory · reverse engineering · Ghidra · IDA Free · x64dbg
-
-**Programming**  
-Python · Java · C/C++ · Bash · PowerShell · SQL
-
-## Current interests
-
-- AI-assisted detection and investigation
-- Security of AI systems and AI agents
-- Detection engineering and SOC automation
-- Cloud security and DevSecOps
-- Threat hunting and adversary emulation
-- Reverse engineering
+**AI × Cybersecurity · Detection Engineering · SOC Automation · Cloud Security · DevSecOps · Incident Response · Security Engineering**
 
 ## Links
 
 - GitHub: https://github.com/Fadi-AICH
 - TryHackMe: https://tryhackme.com/p/FadiX
 
----
-
-> Public project material is sanitized. Employer-sensitive infrastructure details, credentials and proprietary information are intentionally excluded.
+> Public project material is sanitized. Employer/internal infrastructure details, credentials and sensitive configuration are intentionally excluded.
