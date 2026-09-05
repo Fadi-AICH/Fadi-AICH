@@ -1,73 +1,104 @@
-# Fadi AICH
+<div align="center">
 
-Final-year **Cybersecurity & Cloud Engineering** student focused on **SOC / Detection Engineering, AI for Cybersecurity, Cloud Security and DevSecOps**.
+# 👋 Hi, I'm Fadi AICH
 
-I enjoy building security systems that turn raw telemetry into useful analyst decisions: detection, enrichment, correlation, scoring, investigation and response automation.
+### Cybersecurity & Cloud Engineering · AI for Cybersecurity · Detection Engineering
 
-**PFE / Final-Year Internship:** 6 months · **Jan/Feb 2027** · open to opportunities across Europe and internationally.
+I build hands-on security projects around **SOC operations, threat detection, AI-assisted security analytics, cloud security, DevSecOps, offensive security and reverse engineering**.
 
-## What I work on
+</div>
 
-- **SOC & Detection Engineering:** SIEM, incident detection/investigation, threat hunting, MITRE ATT&CK, SOAR, UEBA
-- **AI for Cybersecurity:** ML-assisted alert prioritization, graph-based investigation, security analytics
-- **Cloud & DevSecOps:** Azure, IAM/RBAC, Docker, CI/CD, secrets management, vulnerability automation
-- **Offensive Security:** web/network pentesting, OWASP Top 10, controlled attack simulation
-- **Reverse Engineering:** x86/x64, PE/ELF, Ghidra, IDA Free, x64dbg
-- **Programming:** Python, C/C++, Java, Bash, PowerShell, SQL
+---
 
-## Featured cybersecurity work
+## 🛡️ Security Focus
 
-### SOC Graph AI — Detection, Correlation & Automated Response
-A controlled SOC laboratory that connects **Wazuh → Python enrichment → MITRE ATT&CK mapping → UEBA/ML scoring → Neo4j graph investigation → Streamlit analyst views → n8n/Shuffle SOAR**.
+- **SOC & Detection Engineering** — SIEM, threat detection, investigation, MITRE ATT&CK, threat hunting, SOAR, UEBA
+- **AI for Cybersecurity** — ML-assisted prioritization, graph-based investigation, security analytics, code-agent security
+- **Cloud & DevSecOps** — Azure, IAM/RBAC, Docker, CI/CD, secrets management, vulnerability automation
+- **Offensive Security** — web/network pentesting, OWASP Top 10, controlled attack simulation
+- **Reverse Engineering** — x86/x64, PE/ELF, Ghidra, IDA Free, x64dbg
 
-Highlights:
-- validated with **12 controlled attack scenarios**
-- adversary emulation with **Atomic Red Team** and **MITRE Caldera**
-- more than **1,400 alerts** normalized/enriched during validation
-- graph-based investigation and risk prioritization
-- firewall telemetry from **pfSense**
-- automated triage and notification workflows
+---
 
-[Read the sanitized project case study](projects/soc-graph-ai/README.md)
+## ⚙️ Tech Stack
 
-### Network Security Monitoring — SELKS / Suricata / Cisco
-A network-security monitoring project built around **SELKS, Suricata, Elastic/Kibana, Scirius, Docker and Cisco traffic mirroring**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Suricata-EF5C27?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wazuh-0052CC?style=for-the-badge&logoColor=white"/>
+</p>
 
-Highlights:
-- IDS/IPS deployment and network visibility through SPAN
-- controlled scan, brute-force and DoS simulations
-- custom Kibana investigation dashboard
-- rule/log analysis and event correlation
-- honeypot extension for additional malicious-behavior telemetry
+---
 
-[Read the sanitized project case study](projects/network-security-monitoring/README.md)
+## 🚀 Featured Projects
 
-### CyberGuard MLOps — AI for Intrusion Detection
-End-to-end MLOps project for IoT intrusion detection using **CICIoT2023, DVC, MLflow, FastAPI, Prometheus, Grafana, Airflow and Streamlit**.
+### 🧠 CyberGuard MLOps
+End-to-end **AI + cybersecurity** project for IoT intrusion detection with reproducible ML pipelines, model tracking, API serving, monitoring and an analyst workbench.
 
-Highlights:
-- reproducible data/model pipeline
-- model comparison and experiment tracking
-- production-style inference and monitoring
-- SOC analyst dashboard/workbench
-- GitHub Actions CI/CD
+**Stack:** CICIoT2023 · DVC · MLflow · FastAPI · Prometheus · Grafana · Airflow · Streamlit · GitHub Actions
 
-[Open CyberGuard MLOps](https://github.com/Fadi-AICH/cyberguard-mlops)
+➡️ [View repository](https://github.com/Fadi-AICH/cyberguard-mlops)
 
-### Secure Transmission Protocol Simulator
-Python/PySide6 desktop simulator combining **AES-CBC, Hamming(7,4), CRC, noisy-channel models, ACK/NACK retransmission and pytest**.
+### 🔎 SOC Graph AI
+SOC laboratory connecting **Wazuh → Python enrichment → MITRE ATT&CK → UEBA/ML → Neo4j graph investigation → Streamlit → SOAR automation**.
 
-[Open the repository](https://github.com/Fadi-AICH/Secure-Transmission-Protocol-Simulator)
+**Highlights:** 12 controlled attack scenarios · Atomic Red Team · Caldera · 1,400+ alerts · n8n/Shuffle · pfSense
 
-## Current direction
+➡️ [View case study](projects/soc-graph-ai/README.md)
 
-I am particularly interested in internships and research topics involving:
+### 🌐 Network Security Monitoring Lab
+Hands-on NSM environment using **SELKS, Suricata, Elastic/Kibana, Scirius, Docker and Cisco traffic mirroring** for intrusion detection and investigation.
 
-**AI × Cybersecurity · Detection Engineering · SOC Automation · Cloud Security · DevSecOps · Incident Response · Security Engineering**
+➡️ [View case study](projects/network-security-monitoring/README.md)
 
-## Links
+### 🔐 Secure Transmission Protocol Simulator
+Desktop security engineering project combining **AES-CBC, Hamming(7,4), CRC, noisy-channel simulation, ACK/NACK retransmission and automated testing**.
 
-- GitHub: https://github.com/Fadi-AICH
-- TryHackMe: https://tryhackme.com/p/FadiX
+➡️ [View repository](https://github.com/Fadi-AICH/Secure-Transmission-Protocol-Simulator)
 
-> Public project material is sanitized. Employer/internal infrastructure details, credentials and sensitive configuration are intentionally excluded.
+---
+
+## 🧪 Security Labs
+
+### Detection Engineering Lab
+A growing defensive-security lab for **Sigma, Wazuh and Suricata detections mapped to MITRE ATT&CK**.
+
+➡️ [Open lab](labs/detection-engineering-lab/README.md)
+
+### AI Security Lab
+A compact lab focused on **LLM / coding-agent security**, prompt-injection evaluation and basic static analysis of AI-generated code.
+
+➡️ [Open lab](labs/ai-security-lab/README.md)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fadi-AICH&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadi-AICH&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🔗 Links
+
+<p align="center">
+  <a href="https://github.com/Fadi-AICH"><img src="https://img.shields.io/badge/GitHub-Fadi--AICH-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://tryhackme.com/p/FadiX"><img src="https://img.shields.io/badge/TryHackMe-FadiX-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+</p>
+
+<div align="center">
+
+**Cybersecurity · AI Security · Detection Engineering · Cloud Security · DevSecOps**
+
+</div>
