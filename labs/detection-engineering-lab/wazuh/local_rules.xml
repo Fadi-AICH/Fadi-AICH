@@ -1,0 +1,11 @@
+<group name="windows,powershell,attack_detection,">
+  <rule id="110200" level="10">
+    <if_group>sysmon_event1</if_group>
+    <field name="win.eventdata.image" type="pcre2">(?i)\\powershell\.exe$</field>
+    <field name="win.eventdata.commandLine" type="pcre2">(?i)(-enc|-encodedcommand|-windowstyle\s+hidden|invoke-webrequest|downloadstring)</field>
+    <description>Suspicious PowerShell execution pattern detected</description>
+    <mitre>
+      <id>T1059.001</id>
+    </mitre>
+  </rule>
+</group>
