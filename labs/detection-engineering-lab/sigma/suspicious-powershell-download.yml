@@ -1,0 +1,28 @@
+title: Suspicious PowerShell Download Behavior
+id: 92cb63b2-2ec4-4f8c-bf1a-6ef3b280133a
+status: experimental
+description: Detects PowerShell command lines that combine common download primitives with execution behavior.
+author: Fadi AICH
+date: 2026-09-05
+logsource:
+  category: process_creation
+  product: windows
+detection:
+  selection_image:
+    Image|endswith: '\\powershell.exe'
+  selection_cli:
+    CommandLine|contains:
+      - 'Invoke-WebRequest'
+      - 'iwr '
+      - 'DownloadString'
+      - 'DownloadFile'
+      - 'Start-BitsTransfer'
+  condition: selection_image and selection_cli
+falsepositives:
+  - Administrative scripts that legitimately download software or updates
+level: medium
+tags:
+  - attack.execution
+  - attack.t1059.001
+  - attack.command_and_control
+  - attack.t1105
