@@ -1,0 +1,1 @@
+alert dns $HOME_NET any -> $EXTERNAL_NET 53 (msg:"LAB Suspicious long DNS query"; dns.query; content:"."; pcre:"/^[A-Za-z0-9_-]{45,}\./"; classtype:trojan-activity; sid:900001; rev:1;)
