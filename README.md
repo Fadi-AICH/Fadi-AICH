@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Fadi-AICH/Fadi-AICH.github.io/main/assets/img/fadix.jpg" width="135" alt="Fadi AICH" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0D1117,45:111827,100:0EA5E9&text=Fadi%20AICH&fontColor=F8FAFC&fontSize=46&fontAlignY=40&desc=Cybersecurity%20Engineering%20%E2%80%A2%20Cloud%20Security%20%E2%80%A2%20Detection%20Engineering&descAlignY=64&descSize=17&animation=fadeIn" alt="Fadi AICH — Cybersecurity Engineering" />
 
-# Fadi AICH
-
-### Cybersecurity Engineering · Cloud Security · Detection Engineering
-
-Computer engineering student specializing in **Cybersecurity & Cloud Computing**. I build hands-on security systems around SOC operations, network monitoring, cloud security, detection engineering, automation and security analytics.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Building+observable+security+systems;Detection+engineering+%E2%86%92+correlation+%E2%86%92+response;Cloud+security+%E2%80%A2+automation+%E2%80%A2+security+analytics;Turning+telemetry+into+evidence+an+analyst+can+use" alt="Typing introduction" />
+</a>
 
 <p>
-  <a href="https://fadi-aich.github.io/"><img src="https://img.shields.io/badge/Portfolio-fadi--aich.github.io-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:fadiaich1@gmail.com"><img src="https://img.shields.io/badge/Email-fadiaich1%40gmail.com-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://fadi-aich.github.io/"><img src="https://img.shields.io/badge/Portfolio-fadi--aich.github.io-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:fadiaich1@gmail.com"><img src="https://img.shields.io/badge/Email-fadiaich1%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://tryhackme.com/p/FadiX"><img src="https://img.shields.io/badge/TryHackMe-FadiX-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 </p>
+
+> *“A strong mind does not defend its first model of reality; it keeps testing, refining, and rebuilding until the evidence survives the story.”*
 
 </div>
 
@@ -21,10 +21,10 @@ Computer engineering student specializing in **Cybersecurity & Cloud Computing**
 ## 👨‍💻 About Me
 
 - 🎓 Engineering cycle in **Cybersecurity & Cloud Computing**
-- ☁️ Current direction: **Cloud Security Engineering → Cloud Security Architecture**
-- 📚 Currently preparing **AWS Certified Solutions Architect – Associate (SAA-C03)**
+- ☁️ Direction: **Cloud Security Engineering → Cloud Security Architecture**
 - 🛡️ Strong interest in **SOC, SIEM, Detection Engineering, Network Security, IAM, DevSecOps and Security Automation**
-- 🧠 I like projects that are **observable, reproducible, explainable and useful to an analyst**
+- 🧠 I like systems that are **observable, reproducible, explainable and useful to an analyst**
+- 🔬 My projects usually connect **telemetry → detection → enrichment → correlation → investigation → response**
 
 ---
 
@@ -62,7 +62,7 @@ End-to-end IoT intrusion-detection platform with reproducible ML workflows, API 
 
 **Selected model:** Gradient Boosting · **F1: 0.941** on the project sample.
 
-[Repository](https://github.com/Fadi-AICH/cyberguard-mlops)
+[Repository](https://github.com/Fadi-AICH/cyberguard-mlops) · [Case Study](https://fadi-aich.github.io/projects/cyberguard-mlops/)
 
 </td>
 <td width="50%" valign="top">
@@ -70,7 +70,7 @@ End-to-end IoT intrusion-detection platform with reproducible ML workflows, API 
 ### 🔐 Secure Transmission Protocol Simulator
 Desktop security-engineering simulator combining **AES-CBC, Hamming(7,4), CRC, noisy-channel simulation and ACK/NACK retransmission** with automated tests.
 
-[Repository](https://github.com/Fadi-AICH/Secure-Transmission-Protocol-Simulator)
+[Repository](https://github.com/Fadi-AICH/Secure-Transmission-Protocol-Simulator) · [Case Study](https://fadi-aich.github.io/projects/secure-transmission-protocol/)
 
 </td>
 </tr>
@@ -78,19 +78,9 @@ Desktop security-engineering simulator combining **AES-CBC, Hamming(7,4), CRC, n
 
 ---
 
-## 🏆 Highlight
-
-### Hack The Box Morocco Summer CTF CUP 2026
-
-**38th / 311 teams** · **10 / 12 challenges solved** · **7,625 points**
-
-Competed as **AICH FADI** with team **KRBTGT** and was the sole active competitor for the team (1/4).
-
----
-
 ## 🧰 Technical Stack
 
-### Security & Detection
+### 🛡️ Detection, SOC & Network Security
 <p>
 <img src="https://img.shields.io/badge/Wazuh-0052CC?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Suricata-EF5C27?style=flat-square&logoColor=white" />
@@ -98,9 +88,22 @@ Competed as **AICH FADI** with team **KRBTGT** and was the sole active competito
 <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white" />
 <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
 <img src="https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Sysmon-2563EB?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" />
+<img src="https://img.shields.io/badge/Sigma-111827?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 </p>
 
-### Cloud & DevSecOps
+### ⚔️ Adversary Emulation, Automation & SOAR
+<p>
+<img src="https://img.shields.io/badge/Caldera-7C3AED?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Atomic_Red_Team-B91C1C?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Shuffle_SOAR-0F172A?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-2563EB?style=flat-square&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevSecOps
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
@@ -109,7 +112,19 @@ Competed as **AICH FADI** with team **KRBTGT** and was the sole active competito
 <img src="https://img.shields.io/badge/IAM%20%2F%20RBAC-0F172A?style=flat-square&logoColor=white" />
 </p>
 
-### Programming & Systems
+### 📈 MLOps, Data & Observability
+<p>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
+
+### 💻 Programming, Systems & Application Engineering
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
@@ -117,6 +132,10 @@ Competed as **AICH FADI** with team **KRBTGT** and was the sole active competito
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 ---
@@ -130,21 +149,32 @@ Competed as **AICH FADI** with team **KRBTGT** and was the sole active competito
 
 ## ☁️ Current Learning Path
 
-```text
-AWS Architecture Fundamentals
-        ↓
-SAA-C03 + hands-on labs
-        ↓
-Terraform · Docker · CI/CD
-        ↓
-IAM · VPC · KMS · CloudTrail · GuardDuty · Security Hub
-        ↓
-Cloud Security Engineering
-        ↓
-Cloud Security Architecture
+```mermaid
+flowchart LR
+    A[AWS Architecture Fundamentals] --> B[SAA-C03 + hands-on labs]
+    B --> C[Terraform · Docker · CI/CD]
+    C --> D[IAM · VPC · KMS · CloudTrail · GuardDuty · Security Hub]
+    D --> E[Cloud Security Engineering]
+    E --> F[Cloud Security Architecture]
 ```
 
-I document completed work and meaningful labs rather than listing unfinished certificates as achievements.
+---
+
+## 📊 GitHub Pulse
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Fadi-AICH&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8" alt="GitHub streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fadi-AICH&bg_color=0D1117&color=94A3B8&line=38BDF8&point=F8FAFC&area=true&hide_border=true" alt="GitHub activity graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fadi-AICH/Fadi-AICH/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fadi-AICH/Fadi-AICH/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Fadi-AICH/Fadi-AICH/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
@@ -154,6 +184,6 @@ I document completed work and meaningful labs rather than listing unfinished cer
 
 [**Portfolio**](https://fadi-aich.github.io/) · [**Projects**](https://fadi-aich.github.io/projects/) · [**GitHub**](https://github.com/Fadi-AICH) · [**TryHackMe**](https://tryhackme.com/p/FadiX)
 
-**Cybersecurity · Cloud Security · Detection Engineering · DevSecOps**
+`Cybersecurity` · `Cloud Security` · `Detection Engineering` · `DevSecOps` · `Security Automation`
 
 </div>
